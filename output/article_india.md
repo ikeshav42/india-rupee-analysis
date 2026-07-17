@@ -128,6 +128,6 @@ I'm not saying India's economy is failing. I just wanted to understand why the g
 
 ---
 
-*Data from FRED (Federal Reserve Economic Data), World Bank Open Data, and PPAC (Petroleum Planning & Analysis Cell), Ministry of Petroleum. Charts generated from raw CSVs. No numbers adjusted manually.*
+*Data from FRED (Federal Reserve Economic Data), World Bank Open Data, and PPAC (Petroleum Planning & Analysis Cell), Ministry of Petroleum. Charts generated from raw CSVs. No numbers adjusted manually. All data and code: [github.com/ikeshav42/india-rupee-analysis](https://github.com/ikeshav42/india-rupee-analysis)*
 
 *If I got something wrong I'd genuinely like to know. Drop a comment.*
