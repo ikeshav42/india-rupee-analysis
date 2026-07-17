@@ -1,0 +1,13 @@
+name: blog2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pyarrow
+  - pip:
+    - yfinance
+    - pytrends
